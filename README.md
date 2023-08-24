@@ -1,4 +1,4 @@
-# 3D T-Shirt Customizer
+# Metaversus: A Futuristic Virtual Landing Page
 
 ## Table of contents
 
