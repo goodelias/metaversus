@@ -1,34 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 3D T-Shirt Customizer
 
-## Getting Started
+## Table of contents
 
-First, run the development server:
+- [Introduction](#introduction)
+- [Demo](#demo)
+- [Technology](#technology)
+- [Features](#features)
+- [Deployment](#deployment)
+- [Run](#run)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Introduction
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Welcome to Metaversus, a visionary landing page website that provides a tantalizing glimpse into the potential future of the Metaverse phenomenon. This modern and captivating website design offers a conceptual exploration into the world of "Metaversus," where reality blends seamlessly with the virtual, sparking curiosity and imagination.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Demo
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![Image description](screenshot-1.png)
+![Image description](screenshot-2.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Technology
 
-## Learn More
+Metaversus is brought to life using a sophisticated blend of cutting-edge technologies:
 
-To learn more about Next.js, take a look at the following resources:
+- React: Powering the dynamic and interactive elements of the website.
+- Next.js 13: Leveraging the latest advancements in Next.js for enhanced performance and development experience.
+- Tailwind.css: Crafting sleek and modern user interface designs with ease.
+- Framer Motion: Adding fluid animations and transitions that enhance user engagement.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Innovative Design: Metaversus showcases a modern and captivating design that reflects the futuristic concept of the Metaverse. Its aesthetics provide users with a sneak peek into a world where reality and the virtual blend seamlessly.
 
-## Deploy on Vercel
+- Metaverse Concept: Delve into the concept of the Metaverse, where you can explore virtual realms that mirror reality and experience them in a profoundly immersive way. Metaversus encapsulates the spirit of this new frontier.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Explore Virtual Realms: Metaversus enables you to virtually navigate through concept-driven virtual realms, offering a tantalizing glimpse of the potential future of the Metaverse.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Deployment
+
+Metaversus has been deployed and can be experienced live at: http://metaversus.great-site.net/. Take a journey into the future of the Metaverse and explore the captivating design and concept firsthand.
+
+## Run
+
+To experience Metaversus locally, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install the required dependencies using npm or yarn: 'npm install' or 'yarn install'.
+3. Run the development server using the command: 'npm run dev' or 'yarn dev'.
+4. Access the website through your preferred web browser.
